@@ -162,6 +162,20 @@
       "cache": false
     },
     {
+      "name": "TurtleCoin XYZ Node - SSL",
+      "url": "node.turtlecoin.xyz",
+      "port": 443,
+      "ssl": true,
+      "cache": false
+    },
+    {
+      "name": "TurtleCoin XYZ Node",
+      "url": "node.turtlecoin.xyz",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "TurtlePay - Load Balancer",
       "url": "node.turtlepay.io",
       "port": 443,
